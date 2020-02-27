@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+div {
+  margin: 20px;
+}
+
+div a {
+  margin: 5px;
+  text-decoration: none;
+}
+div a .active {
+  font-weight: bold;
+  color: blue;
+}
